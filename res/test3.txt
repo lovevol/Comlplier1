@@ -1,0 +1,13 @@
+const  a01a=10;
+var b1a1,cc;
+procedure p;
+    begin
+        cC:=B1a1+a01a;
+    end;
+begin
+    read(b1A1);
+    while B1a1#0 do
+        begin
+            call p; write(2*Cc);read(b1a1)
+        end
+end.

@@ -1,0 +1,26 @@
+var M,n,r,Q;
+procedure gCd;
+    begin
+        while r#0 do
+            begin
+                q :=m/n;
+                r :=m - q * n;
+                m :=n;
+                n :=r;
+            end
+    end;
+begin
+    read(M);
+    read(n);
+    if m < n then
+        begin
+            r :=M;
+            m :=N;
+            n :=R;
+        end;
+    begin
+        r:=1;
+        call gcd;
+        write(M);
+    end;
+end.
